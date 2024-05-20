@@ -1,6 +1,9 @@
 # mod-challene-1
 First challenge assignment
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0c027bef50aa65cf950964764d6a35a92bd0eddb
 ## User Story
 ```
 As a bootcamp student
@@ -21,4 +24,8 @@ THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
+<<<<<<< HEAD
 THEN I find a concise, descriptive title
+=======
+THEN I find a concise, descriptive title
+>>>>>>> 0c027bef50aa65cf950964764d6a35a92bd0eddb
